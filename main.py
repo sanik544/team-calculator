@@ -1,0 +1,5 @@
+"def main_interface():" 
+"    print('Welcome to the Team Calculator!')" 
+"    # Placeholder for future integration" 
+"if __name__ == '__main__':" 
+"    main_interface()" 
