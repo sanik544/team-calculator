@@ -1,0 +1,7 @@
+"import math" 
+"def square_root(x):" 
+"    return math.sqrt(x)" 
+"def power(base, exp):" 
+"    return math.pow(base, exp)" 
+"def percentage(num, total):" 
+"    return (num / total) * 100" 
